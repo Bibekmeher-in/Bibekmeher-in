@@ -1,4 +1,4 @@
-```md
+
 <!-- ========================================================= -->
 <!--                 BIBEKANANDA MEHER // 2026                 -->
 <!--             FUTURISTIC AI ENGINEERING PROFILE             -->
