@@ -196,63 +196,7 @@
 
 <div align="center">
 
-## `◈ PROJECT DATABASE`
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/bibekmeher-in/fullstack-chat-app">
-
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=bibekmeher-in&repo=fullstack-chat-app&theme=dark&bg_color=050505&title_color=FF6B00&icon_color=FF006E&text_color=FFFFFF&border_color=FF6B00"/>
-
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/bibekmeher-in/mern-resume-builder">
-
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=bibekmeher-in&repo=mern-resume-builder&theme=dark&bg_color=050505&title_color=FF6B00&icon_color=FF006E&text_color=FFFFFF&border_color=FF006E"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/bibekmeher-in/bibekcricketbuzz">
-
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=bibekmeher-in&repo=bibekcricketbuzz&theme=dark&bg_color=050505&title_color=FF6B00&icon_color=FF006E&text_color=FFFFFF&border_color=FF6B00"/>
-
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/bibekmeher-in/cricketbuzz">
-
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=bibekmeher-in&repo=cricketbuzz&theme=dark&bg_color=050505&title_color=FF6B00&icon_color=FF006E&text_color=FFFFFF&border_color=FF006E"/>
-
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
 
 ## `◈ DIGITAL PRESENCE`
 
