@@ -1,130 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=BIBEKANANDA%20MEHER&fontSize=42&fontColor=ffffff&animation=twinkling&color=gradient" width="100%"/>
+<!-- 🤖 FUTURISTIC AI HERO -->
 
-<br>
+<img src="https://www.gitskins.com/api/section/hero?username=bibekmeher-in&theme=cyber" width="100%" alt="Futuristic AI Hero"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Building+Modern+Web+%26+Mobile+Apps+%F0%9F%9A%80;Turning+Ideas+Into+Products+%E2%9A%A1" alt="Typing animation"/>
+<br/><br/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=800&size=22&duration=2200&pause=700&color=00F0FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=🤖+AI+SYSTEM+ONLINE;⚡+FULL+STACK+DEVELOPER;🧠+LLM+%7C+RAG+%7C+AGENTIC+AI;🚀+BUILDING+THE+FUTURE;💻+CODE+%7C+CREATE+%7C+DEPLOY" alt="AI typing animation"/>
 
-<a href="https://github.com/bibekmeher-in">
-<img src="https://github.com/bibekmeher-in.png?size=300" width="180" alt="Bibekananda Meher"/>
-</a>
+<br/><br/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/💻_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤖_AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_BUILD-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_CREATE-0891B2?style=for-the-badge"/>
-
-<br><br>
+<!-- 👤 AVATAR -->
 
 <a href="https://github.com/bibekmeher-in">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://github.com/bibekmeher-in.png?size=400" width="190" alt="Bibekananda Meher"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🤖_AI_CORE-ONLINE-00F0FF?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/⚡_SYSTEM-BUILDING-7C3AED?style=for-the-badge&labelColor=050816"/>
+<img src="https://img.shields.io/badge/🚀_MODE-FUTURISTIC-00A8FF?style=for-the-badge&labelColor=050816"/>
+
+<br/><br/>
+
+<a href="https://github.com/bibekmeher-in">
+<img src="https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050816"/>
+</a>
+
 <a href="https://bibekmeher.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=050816"/>
 </a>
+
 <a href="https://linkedin.com/in/bibekananda-meher">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=050816"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bibekmeher-in&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=bibekmeher-in&style=for-the-badge&color=00F0FF&label=PROFILE+SCANS" alt="Profile views"/>
 
 </div>
 
-<br>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🤖 AI ROBOT CORE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🧑‍💻 ⚡ 🚀
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer coding animation"/>
+<img src="https://www.gitskins.com/api/section/portrait?username=bibekmeher-in&theme=cyber" width="420" alt="AI Developer Avatar"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,java,php,dart,flutter,tailwind,redux,docker,git,github,firebase,graphql,redis,tensorflow,opencv,linux&perline=8" alt="Technology icons"/>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    🤖 BIBEK AI CORE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ◉ NEURAL ENGINE        ████████████████████  ONLINE        ║
+║  ◉ FULL STACK ENGINE    ████████████████████  ONLINE        ║
+║  ◉ AI ENGINE            ████████████████████  ACTIVE        ║
+║  ◉ DEPLOYMENT ENGINE    ████████████████████  READY        ║
+║                                                              ║
+║  > INITIALIZING...                                          ║
+║  > CONNECTING NEURAL NETWORK...                             ║
+║  > LOADING DEVELOPMENT MODULES...                           ║
+║  > SYSTEM READY 🚀                                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝</div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 📊 LIVE GITHUB ANALYTICS --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://www.gitskins.com/api/section/stats?username=bibekmeher-in&theme=cyber" width="100%" alt="GitHub Analytics"/>
 
-</div>
+<br/><br/>
 
-<br>
+<img src="https://www.gitskins.com/api/section/stack?username=bibekmeher-in&theme=cyber" width="100%" alt="Technology Stack"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 📈 CONTRIBUTION MATRIX --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://www.gitskins.com/api/section/heatmap?username=bibekmeher-in&theme=cyber&style=snake" width="100%" alt="Animated Contribution Matrix"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 🚀 PROJECT SYSTEMS --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://www.gitskins.com/api/section/projects?username=bibekmeher-in&theme=cyber" width="100%" alt="Featured Projects"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 🧠 TECH MATRIX --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,java,php,dart,flutter,tailwind,redux,docker,git,github,firebase,graphql,redis,tensorflow,opencv,linux&perline=8" alt="Technology Matrix"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- 🐍 CONTRIBUTION SNAKE --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://www.gitskins.com/api/section/heatmap?username=bibekmeher-in&theme=cyber&style=snake" width="100%" alt="Contribution Snake"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- ♟️ AI CHESS / ANIMATION --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://www.gitskins.com/api/section/chess?username=bibekmeher-in&theme=cyber" width="100%" alt="Animated AI Chess"/> </div> <br/> <!-- ═══════════════════════════════════════════════════════════════ --> <!-- ⚡ SYSTEM TERMINAL --> <!-- ═══════════════════════════════════════════════════════════════ --> <div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=18&duration=1800&pause=500&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%3E+ACCESSING+DEVELOPER+CORE...;%3E+AI+MODULES+LOADED;%3E+NEURAL+NETWORK+ACTIVE;%3E+BUILDING+NEXT+GENERATION+SYSTEMS;%3E+MISSION:+CREATE+SOMETHING+EPIC+%F0%9F%9A%80" alt="Terminal animation"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibekmeher-in&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=00000000" width="49%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekmeher-in&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" width="42%" alt="Top languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=bibekmeher-in&theme=tokyonight&hide_border=true&background=00000000" width="70%" alt="GitHub streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekmeher-in&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%" alt="GitHub activity graph"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bibekmeher-in&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%" alt="GitHub trophies"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/bibekmeher-in/fullstack-chat-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=fullstack-chat-app&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Fullstack Chat App"/>
-</a>
-
-<a href="https://github.com/bibekmeher-in/mern-resume-builder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=mern-resume-builder&theme=tokyonight&hide_border=true&bg_color=00000000" alt="MERN Resume Builder"/>
-</a>
-
-<br>
-
-<a href="https://github.com/bibekmeher-in/bibekcricketbuzz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=bibekcricketbuzz&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Bibek Cricket Buzz"/>
-</a>
-
-<a href="https://github.com/bibekmeher-in/cricketbuzz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=cricketbuzz&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Cricket Buzz"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" width="100%"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%A5;Always+Building+Something+New+%F0%9F%9A%80" alt="Footer animation"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050816,50:7C3AED,100:00F0FF&animation=twinkling" width="100%" alt="Animated futuristic footer"/> </div> ```
