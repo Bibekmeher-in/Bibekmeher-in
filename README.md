@@ -1,226 +1,294 @@
-<h1 align="center">Hi 👋, I'm Bibekananda Meher</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer • AI Enthusiast • Builder
-</h3>
+# 👋 Hey, I'm **Bibekananda Meher**
 
-<p align="center">
+### `Full-Stack Developer` · `AI Enthusiast` · `Builder`
+
+<p>
   <a href="https://github.com/bibekmeher-in">
-    <img src="https://img.shields.io/github/followers/bibekmeher-in?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/bibekmeher-in?style=for-the-badge&logo=github&label=Followers" alt="Followers">
   </a>
   <a href="https://github.com/bibekmeher-in?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-14-181717?style=for-the-badge&logo=github" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-14-181717?style=for-the-badge&logo=github" alt="Repositories">
   </a>
   <a href="https://bibekmeher.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bibekmeher-in&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<p>
+  <a href="https://linkedin.com/in/bibekananda-meher">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:bibekanandam958@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=bibekmeher-in&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile views">
 
-## 🚀 About Me
-
-I'm a passionate **full-stack developer from India** who enjoys building web applications, experimenting with AI, and turning ideas into working products.
-
-* 🔭 Currently working on **[BibekStudio](https://github.com/Bibekmeher-in/BibekStudio)**
-* 🌱 Currently learning **LLMs, RAG, Agentic AI & modern AI applications**
-* 👯 Looking to collaborate on **[Suravi2k26](https://github.com/suravi2k24-droid/suravi26)**
-* 💻 My projects: **[bibekmeher.vercel.app](https://bibekmeher.vercel.app/)**
-* 📝 I write articles on **[my blog](https://bibekmeher.vercel.app/blog)**
-* 💬 Ask me about **Full-Stack Development, JavaScript, React, Next.js & AI**
-* ⚡ Fun fact: **I like to play with LLMs, NLP & Neural Networks**
+</div>
 
 ---
 
-## 🧠 What I'm Focused On
+## 🧑‍💻 `whoami`
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🌐 Full-Stack Development                         │
-│   🤖 Artificial Intelligence                        │
-│   🧠 LLMs • RAG • Agentic AI                       │
-│   ⚛️ React • Next.js • TypeScript                   │
-│   🟢 Node.js • Express • MongoDB                    │
-│   📱 Flutter & Cross-Platform Development           │
-│   ☁️ Cloud • Docker • Firebase                      │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+> initializing bibekananda_meher...
+
+✓ Full-Stack Developer
+✓ JavaScript / TypeScript
+✓ React / Next.js
+✓ Node.js / Express
+✓ MongoDB / SQL
+✓ Flutter
+✓ AI / LLM / RAG
+✓ Always building something new
+
+> status: ONLINE 🟢
 ```
+
+I'm a **full-stack developer from India** who enjoys building practical applications, exploring emerging technologies, and turning ideas into real products.
+
+My current focus is moving deeper into **AI-powered applications**, especially **LLMs, RAG, Agentic AI, NLP and Neural Networks**.
 
 ---
 
-# 📊 GitHub Analytics
+# ⚡ What I'm Doing Now
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibekmeher-in&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekmeher-in&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top languages" />
-</p>
+|    | Focus                                                                           |
+| -- | ------------------------------------------------------------------------------- |
+| 🔭 | Building **[BibekStudio](https://github.com/Bibekmeher-in/BibekStudio)**        |
+| 🌱 | Learning **LLMs, RAG & Agentic AI**                                             |
+| 👯 | Collaborating on **[Suravi2k26](https://github.com/suravi2k24-droid/suravi26)** |
+| 💻 | Building full-stack applications                                                |
+| 🧠 | Experimenting with AI & ML                                                      |
+| 📝 | Writing technical content on my **[blog](https://bibekmeher.vercel.app/blog)**  |
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibekmeher-in&theme=tokyonight" width="100%" alt="GitHub profile summary" />
-</p>
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bibekmeher-in&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekmeher-in&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibekmeher-in&theme=tokyonight" width="100%" alt="Contribution Summary">
+
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bibekmeher-in&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=bibekmeher-in&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/bibekmeher-in">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekmeher-in&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="GitHub activity graph" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekmeher-in&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="Contribution Activity Graph">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+> If the snake doesn't appear immediately, it needs to be generated by a GitHub Action in your profile repository. I recommend setting this up rather than relying on an external pre-generated image.
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bibekmeher-in&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bibekmeher-in&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies">
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Bibekmeher-in/fullstack-chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=fullstack-chat-app&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Bibekmeher-in/mern-resume-builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=mern-resume-builder&theme=tokyonight&hide_border=true" />
-  </a>
+### 💬 Full-Stack Chat Application
+
+<a href="https://github.com/Bibekmeher-in/fullstack-chat-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=fullstack-chat-app&theme=tokyonight&hide_border=true" alt="Full Stack Chat App">
+</a>
+
+### 📄 MERN Resume Builder
+
+<a href="https://github.com/Bibekmeher-in/mern-resume-builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=mern-resume-builder&theme=tokyonight&hide_border=true" alt="MERN Resume Builder">
+</a>
+
+### 🏏 Bibek Cricket Buzz
+
+<a href="https://github.com/Bibekmeher-in/bibekcricketbuzz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=bibekcricketbuzz&theme=tokyonight&hide_border=true" alt="Bibek Cricket Buzz">
+</a>
+
+### 🏏 Cricket Buzz
+
+<a href="https://github.com/Bibekmeher-in/cricketbuzz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=cricketbuzz&theme=tokyonight&hide_border=true" alt="Cricket Buzz">
+</a>
+
+<div align="center">
+
+<a href="https://github.com/bibekmeher-in?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All projects">
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech Arsenal
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,dart" alt="Languages">
 </p>
 
-<p align="center">
-  <a href="https://github.com/Bibekmeher-in/bibekcricketbuzz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=bibekcricketbuzz&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Bibekmeher-in/cricketbuzz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bibekmeher-in&repo=cricketbuzz&theme=tokyonight&hide_border=true" />
-  </a>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,vue" alt="Frontend">
 </p>
 
-<p align="center">
-  <a href="https://github.com/Bibekmeher-in?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github" alt="View all repositories" />
-  </a>
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,redis" alt="Backend and databases">
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" alt="AI and ML">
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vercel,gcp" alt="Tools">
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,reactnative,dart" alt="Mobile">
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Currently Exploring
 
-### 💻 Languages
+```text
+Artificial Intelligence
+│
+├── LLM Applications
+├── Retrieval-Augmented Generation
+├── Agentic AI
+├── Natural Language Processing
+└── Neural Networks
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,dart" alt="Programming languages" />
-</p>
-
-### 🌐 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,vue" alt="Frontend technologies" />
-</p>
-
-### ⚙️ Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,redis,firebase" alt="Backend and databases" />
-</p>
-
-### 🤖 AI / ML
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" alt="AI and machine learning" />
-</p>
-
-### ☁️ Tools & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma,vercel,gcp" alt="Tools and DevOps" />
-</p>
-
-### 📱 Mobile
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,reactnative" alt="Mobile development" />
-</p>
+Full-Stack Engineering
+│
+├── Next.js
+├── TypeScript
+├── Node.js
+├── React
+└── Scalable APIs
+```
 
 ---
 
-# 🌱 Currently Learning
+# 💡 Developer Philosophy
 
-| Area               | Focus                             |
-| ------------------ | --------------------------------- |
-| 🤖 LLMs            | Large Language Model applications |
-| 🔎 RAG             | Retrieval-Augmented Generation    |
-| 🧠 Agentic AI      | AI agents & autonomous workflows  |
-| 🗣️ NLP            | Natural Language Processing       |
-| 🧬 Neural Networks | Deep Learning & experimentation   |
-| ⚡ Next.js          | Modern full-stack applications    |
-| 🟦 TypeScript      | Scalable & type-safe applications |
+<div align="center">
 
----
+### `"Build. Break. Learn. Improve. Repeat."`
 
-# 💡 Development Philosophy
+</div>
 
-> **Build it. Break it. Understand it. Improve it.**
+I believe the fastest way to understand technology is to **build real things**.
 
-I believe the best way to learn technology is by building real projects, experimenting with new ideas, and continuously improving what already exists.
+Instead of only learning a framework or tool theoretically, I prefer experimenting with it, solving real problems, breaking things, understanding why they broke, and improving the implementation.
 
 ---
 
-# 📫 Connect With Me
+# 📚 My Digital Space
 
-<p align="center">
-  <a href="https://github.com/bibekmeher-in">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/bibekananda-meher">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://bibekmeher.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://bibekmeher.vercel.app/blog">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:bibekanandam958@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://bibekmeher.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-000000?style=for-the-badge" alt="Portfolio">
+</a>
 
-## ⭐ Support My Work
+<a href="https://bibekmeher.vercel.app/blog">
+<img src="https://img.shields.io/badge/📝%20Blog-Read-FF5722?style=for-the-badge" alt="Blog">
+</a>
 
-If you find my projects useful or interesting, consider giving them a ⭐.
+<a href="https://github.com/bibekmeher-in">
+<img src="https://img.shields.io/badge/💻%20GitHub-Explore-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
 
-<p align="center">
-  <a href="https://github.com/bibekmeher-in?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-⭐-181717?style=for-the-badge" alt="Explore projects" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/bibekananda-meher">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer" alt="Footer" />
-</p>
+# 📬 Let's Connect
 
-<p align="center">
-  <sub>Built with ❤️ by Bibekananda Meher</sub>
-</p>
+<div align="center">
+
+If you're interested in **building products, AI, open source, or interesting technical projects**, feel free to reach out.
+
+<br>
+
+<a href="mailto:bibekanandam958@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=100&section=footer" alt="Footer">
+
+<sub>© Bibekananda Meher · Built with curiosity & code</sub>
+
+</div>
