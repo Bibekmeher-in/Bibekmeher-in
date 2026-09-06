@@ -75,9 +75,6 @@
 
 ## `◈ AI CORE`
 
-<img src="https://media.giphy.com/media/T14bvx9ij5H0aVjC4z/giphy.gif" width="430" alt="Futuristic AI Robot"/>
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=450&color=FF006E&center=true&vCenter=true&repeat=true&width=780&height=30&lines=%5B+BOOTING+AI+CORE+%5D;%5B+LOADING+NEURAL+SYSTEMS+%5D;%5B+RAG+PIPELINE+READY+%5D;%5B+AGENTIC+WORKFLOW+READY+%5D;%5B+SYSTEM+OPERATIONAL+%5D" />
 
